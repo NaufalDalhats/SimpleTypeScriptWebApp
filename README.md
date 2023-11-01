@@ -1,0 +1,2 @@
+# SimpleTypeScriptWebApp
+For training needs
